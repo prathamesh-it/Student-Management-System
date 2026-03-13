@@ -1,7 +1,7 @@
 # Student-Management-System
 A Spring Boot MVC web application that allows users to perform CRUD (Create, Read, Update, Delete) operations on student records. The system provides a simple interface to manage student details such as first name, last name, and email.
 
-
+---------------------------------------------------------------------------------------------------------------------------------
 Features
 
 • Add a new student
@@ -11,6 +11,7 @@ Features
 • Display student records in a structured table
 • Simple and clean user interface using Thymeleaf
 
+-----------------------------------------------------------------------------------------------------------------------------------
 Technologies Used
 
 Backend
@@ -29,6 +30,7 @@ Database
 Build Tool
 • Maven
 
+---------------------------------------------------------------------------------------------------------------------------------
 Project Architecture
 
 The application follows the Spring Boot MVC architecture.
